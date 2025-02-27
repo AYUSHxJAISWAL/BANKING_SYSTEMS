@@ -1,5 +1,4 @@
-# BANKING SYSTEMS
-
+# Banking System
 
 ## Overview
 This project is a simple Banking System implemented in C. It provides basic functionalities such as account creation, deposit, withdrawal, balance inquiry, transaction history, interest calculation, and fund transfers. The system ensures secure transactions and data handling.
@@ -26,12 +25,12 @@ This project is a simple Banking System implemented in C. It provides basic func
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/banking-system.git
-   cd banking-system
+   git clone https://github.com/your-username/banking_systems_first_project.git
+   cd banking_systems_first_project
    ```
 2. Compile the code:
    ```sh
-   gcc banking_system.c -o banking_system
+   gcc banking_systems_first_project.c -o banking_system
    ```
 3. Run the executable:
    ```sh
@@ -40,8 +39,8 @@ This project is a simple Banking System implemented in C. It provides basic func
 
 ## File Structure
 ```
-📂 banking-system
-├── 📄 banking_system.c  # Main source code
+📂 banking_systems_first_project
+├── 📄 banking_systems_first_project.c  # Main source code
 ├── 📄 README.md         # Project documentation
 └── 📄 data.txt         # File storage for account details (if used)
 ```
