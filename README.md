@@ -1,5 +1,5 @@
-# BANKING_SYSTEMS
-# Banking System
+# BANKING SYSTEMS
+
 
 ## Overview
 This project is a simple Banking System implemented in C. It provides basic functionalities such as account creation, deposit, withdrawal, balance inquiry, transaction history, interest calculation, and fund transfers. The system ensures secure transactions and data handling.
@@ -59,12 +59,10 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes.
 4. Push to your fork and create a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any queries or suggestions, feel free to reach out:
-- **Email:** your.email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Email:** ayushrajujaiswal@gmail.com
+- **GitHub:** [AYUSHxJAISWAL](https://github.com/AYUSHxJAISWAL)
 
 
